@@ -1,3 +1,4 @@
 TRINIFILL WATER STATION DATABASE BACKUP
 File: latest_water_station_db.sql.gz
-Last Updated: 2026-05-12 13:00:02
+This file is automatically replaced every hour.
+Last updated: 2026-05-12 14:00:02 PST
